@@ -23,10 +23,10 @@ public class loadScore : MonoBehaviour
         img.rectTransform.sizeDelta = new Vector2(150f, (team1 / countquestions) * 330f);
         img2.rectTransform.sizeDelta = new Vector2(150f, (team2 / countquestions) * 330f);
         Vector2 position1 = img.transform.position;
-        position1.y = position1.y + ((team1 / countquestions) * 330f) / 2f;
+        position1.y = position1.y + ((team1 / countquestions) * 165f) / 2f;
         img.transform.position = position1;
         Vector2 position2 = img2.transform.position;
-        position2.y = position2.y + ((team2 / countquestions) * 330f) / 2f;
+        position2.y = position2.y + ((team2 / countquestions) * 165f) / 2f;
         img2.transform.position = position2;
         if (team1 > team2 && team2 < team1)
         {
