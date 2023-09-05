@@ -22,6 +22,7 @@ In the Inspector the Onclick Function has to be changed to the name of the newly
 
 
 # Used Assets
+## Images
 Image by Freepik:
 - https://www.freepik.com/free-vector/gradient-call-action-buttons_14140586.htm#query=ui%20button&position=42&from_view=search&track=ais
 - Image by vectorpocket on Freepik
@@ -30,8 +31,11 @@ Image by Freepik:
     https://www.freepik.com/free-vector/cartoon-style-cafe-front-shop-view_11929743.htm#query=shop&position=2&from_view=search&track=sph
 - Image by pikisuperstar on Freepik
     https://www.freepik.com/free-vector/cartoon-character-motion-design_4221359.htm#query=woman&position=30&from_view=search&track=sph
+## Sounds
 -  Calm and Peaceful by LesFM | https://lesfm.net/relaxing-background-music/
 Music promoted by https://www.chosic.com/free-music/all/
 Creative Commons CC BY 3.0
 https://creativecommons.org/licenses/by/3.0/
+- Free sounds from kenney.nl
+       https://kenney.nl/assets/ui-audio
 
