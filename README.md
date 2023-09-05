@@ -38,4 +38,5 @@ Creative Commons CC BY 3.0
 https://creativecommons.org/licenses/by/3.0/
 - Free sounds from kenney.nl
        https://kenney.nl/assets/ui-audio
-
+- Sounds From Occulus audio Pack 1
+  https://developer.oculus.com/downloads/package/oculus-audio-pack-1/
