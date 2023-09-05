@@ -2,9 +2,11 @@
 
 QQuizzer is a customizable quiz game where two teams can play against each other. The here inserted questions are examples. The questions are designed to always give 4 possible answers.
 The quiz questions can be customized (Resources -> quizitems -> level1/level2) 
+
 ![image](https://github.com/beckaa/QQuizzer/assets/44342265/372b17c0-8adb-4b45-85a4-82c9dfda9068)
 
 With Create Quizitems new questions can be added to the level folder.
+
 ![image](https://github.com/beckaa/QQuizzer/assets/44342265/dc457faa-97f7-48ec-b3ae-8f1c84f77fb7)
 
 A new level can be added in the Resources/quizitems folder by adding a new folder. Also in the hierarchy a quizlevel gameobject in the WorldMap can be copied (strg+d) and changed. Do not forget to adjust the position of the new element in the scene.
