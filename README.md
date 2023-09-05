@@ -30,3 +30,8 @@ Image by Freepik:
     https://www.freepik.com/free-vector/cartoon-style-cafe-front-shop-view_11929743.htm#query=shop&position=2&from_view=search&track=sph
 - Image by pikisuperstar on Freepik
     https://www.freepik.com/free-vector/cartoon-character-motion-design_4221359.htm#query=woman&position=30&from_view=search&track=sph
+-  Calm and Peaceful by LesFM | https://lesfm.net/relaxing-background-music/
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons CC BY 3.0
+https://creativecommons.org/licenses/by/3.0/
+
